@@ -318,6 +318,7 @@ header{
 	box-shadow: 1px 1px 5px 1px #BC223E;
 }
 /*feature button end*/
+
 /*footer section start*/
 
 .footer{
@@ -335,7 +336,6 @@ header{
 	float: left;
 }
 .f_h2{
-	font-family:sans-serif;
 	margin:0 0 30px;
 	color:#BC223E;
 	text-transform: uppercase;
@@ -348,9 +348,7 @@ header{
 	line-height: 35px;
 }
 .f_text{
-	
-	font-family:sans-serif;f
-	ont-size:17px;
+	font-size:17px;
 	line-height: 35px;
 }
 .f_text a{
@@ -397,8 +395,7 @@ header{
 /*f_box*/
 .r_box{}
 .r_box p{
-    font-family:sans-serif;
-    font-size: 17px;
+	font-size: 17px;
     color:#8AA3C1;
     line-height: 25px;
 }
@@ -407,7 +404,7 @@ header{
 	color: #8AA3C1;
 }
 .form input{
-    width: 150px;
+	width: 150px;
     height: 45px;
     font-size: 15px;
     padding-left: 15px;
@@ -418,7 +415,7 @@ header{
 	outline: 0;
 }
 .form button{
-    width: 130px;
+	width: 130px;
     height: 51px;
     margin: 0 -5px;
     font-family: sans-serif;

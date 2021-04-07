@@ -353,7 +353,6 @@ header{
 	line-height: 35px;
 }
 .f_text a{
-	font-family:sans-serif;
 	color:#8AA3C1;
 	text-decoration: none;
 }
@@ -397,8 +396,8 @@ header{
 /*f_box*/
 .r_box{}
 .r_box p{
-    font-family:sans-serif;
-    font-size: 17px;
+	font-family:sans-serif;
+	font-size: 17px;
     color:#8AA3C1;
     line-height: 25px;
 }
@@ -440,6 +439,7 @@ header{
 	padding: 20px 0;
 }
 .c_right p{
+	font-family:sans-serif;
 	text-align: center;
 	color: #ffffff;
 }

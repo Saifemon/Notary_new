@@ -354,6 +354,7 @@ header{
 	line-height: 35px;
 }
 .f_text a{
+	font-family: sans-serif;
 	color:#8AA3C1;
 	text-decoration: none;
 }

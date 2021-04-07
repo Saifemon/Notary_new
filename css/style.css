@@ -280,6 +280,7 @@ header{
 }
 .s_box p{
 	/*margin: 22px 15px 65px;*/
+    font-family:sans-serif;
     padding: 0 15px;
     font-size: 17px;
     color: #A7A7A7;
@@ -352,6 +353,7 @@ header{
 	line-height: 35px;
 }
 .f_text a{
+	font-family:sans-serif;
 	color:#8AA3C1;
 	text-decoration: none;
 }
@@ -395,7 +397,8 @@ header{
 /*f_box*/
 .r_box{}
 .r_box p{
-	font-size: 17px;
+    font-family:sans-serif;
+    font-size: 17px;
     color:#8AA3C1;
     line-height: 25px;
 }

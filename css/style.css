@@ -337,6 +337,7 @@ header{
 	float: left;
 }
 .f_h2{
+	font-family: sans-serif;
 	margin:0 0 30px;
 	color:#BC223E;
 	text-transform: uppercase;
